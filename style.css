@@ -5,3 +5,12 @@ body {
 .center {
     text-align: center;
 }
+
+#dstypes {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#headrow {
+    background-color: aqua;
+}
